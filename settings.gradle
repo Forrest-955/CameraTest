@@ -1,2 +1,2 @@
 rootProject.name='QRtest'
-include ':app', ':zbarlibary', 'MTCommon', ':uvccamerasdk'
+include ':app', ':zbarlibary', ':uvccamerasdk'
