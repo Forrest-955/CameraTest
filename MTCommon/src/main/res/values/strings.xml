@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MTCommon</string>
+    <string name="time_out">操作超时</string>
+</resources>
